@@ -43,7 +43,7 @@ class Solution {
 ```
 
 #### Language used for code
-<!-- java -->
+java 
 
 
 #### Expected behavior
@@ -60,5 +60,5 @@ problem
 
 
 
-#### Additional context
+
 Thankyou :)
