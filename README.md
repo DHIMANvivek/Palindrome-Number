@@ -49,7 +49,7 @@ class Solution {
 #### Expected behavior
 <!-- A clear and concise description of what you expected to happen in
 contrast with what actually happened. -->
-this question seems to be easy but i like the concept used in this question as palindrome is playing a unique or best role in this
+this question seems to be an easy but i like the concept used in this question as palindrome is playing a unique or best role in this
 problem
 
 
