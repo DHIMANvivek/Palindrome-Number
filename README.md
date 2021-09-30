@@ -39,7 +39,7 @@ class Solution {
         return (rev==x);
         
     }
-};
+}
 ```
 
 #### Language used for code
